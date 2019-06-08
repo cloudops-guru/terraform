@@ -1,4 +1,4 @@
-EC2 INSTANCE LAUNCHING
+## EC2 INSTANCE LAUNCHING
 
 1 Create a key pair initally 
 
